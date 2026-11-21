@@ -196,7 +196,7 @@ These outputs are used to compare the models and analyse their classification pe
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_PRIVATE_GITHUB_REPOSITORY_URL>
+git clone https://github.com/ASHMITHA1045/Loan-prediction-ML
 ```
 
 ### Step 2: Navigate to the Project Directory
